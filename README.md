@@ -42,10 +42,11 @@ For this workshop you need the following:
 - [ ] [GitHub Discussions](01_02_Collaborate-on-ideas.md#-discussions)
 - [ ] [Wikis and Pages](01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages)
 - [ ] [GitHub Issues](01_02_Collaborate-on-ideas.md#%EF%B8%8F-github-issues)
-- [ ] [GitHub Projects](01_02_Collaborate-on-ideas.md#-github-projects)
+
 
 ### Part 2: 🤝 Collaborate on code
 
+- [ ] [GitHub Projects](01_02_Collaborate-on-ideas.md#-github-projects)
 - [ ] Branching strategies and git workflows like GitHub flow
     - [Git flow](https://nvie.com/posts/a-successful-git-branching-model/)
     - [GitHub flow](https://docs.github.com/en/get-started/quickstart/github-flow)
