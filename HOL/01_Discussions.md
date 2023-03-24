@@ -24,5 +24,6 @@ In this hands-on lab you've practiced to collaborate with other team members usi
 
 You can now continue with [Wikis and Pages](../01_02_Collaborate-on-ideas.md#%EF%B8%8F-wikis-and--pages).
 
-## Something new here
-Great effort in adding this
+## Thank you
+Great effort in adding this :fireworks:
+
